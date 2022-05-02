@@ -1,6 +1,6 @@
 # laraval-debian
 Basic Steps to make laraval working in linux\
-Tested in Debian 11\
+Tested in Debian 11
 
     apt install composer npm
     composer create-project laravel/laravel
