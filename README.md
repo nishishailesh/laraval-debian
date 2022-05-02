@@ -1,5 +1,5 @@
-# laraval-debian
-Basic Steps to make laraval working in linux\
+# laravel-debian
+Basic Steps to make laravel working in linux\
 Tested in Debian 11
 
     apt install composer npm
