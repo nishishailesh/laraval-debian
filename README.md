@@ -1,4 +1,5 @@
 # laravel-debian
+Although a lot of doumetation is there for laravel, Something simple to get going is shown here.\
 Basic Steps to make laravel working in linux\
 Tested in Debian 11
 
